@@ -174,7 +174,7 @@
   line-height: 1.2;
   font-weight: 400;
   text-align: left;
-  margin-left: 20px 0 0;
+  margin-left: 20px 0;
 }
 
 .feynman {
@@ -232,7 +232,7 @@
 }
 
 .section-title_theme-dark {
-  margin-top: 0 auto 90px;
+  margin: 0 auto 90px;
   color: white;
 }
 
