@@ -104,7 +104,6 @@
   margin: 0;
   padding: 0;
   min-width: 784px;
-  
 }
 .two-columns__paragraph {
   padding: 0;
@@ -115,7 +114,6 @@
 }
 .two-columns__span-accent {
   font-weight: bold;
-  
 }
 
 .digits {
@@ -124,8 +122,6 @@
   align-items: center;
   flex-direction: column;
   padding-bottom: 100px;
-
-
 }
 
 .section-title {
@@ -159,7 +155,6 @@
 
 .table__cell {
   width: 250px;
-
 }
 
 .table__heading {
@@ -197,7 +192,6 @@
   max-width: 648px;
   text-align: center;
   margin: 0;
-
 }
 
 .feynman__subtitle {
@@ -261,7 +255,7 @@
 }
 
 
-.kaufman__triangle { /* всё было абсолютно по макету , но после добавления div и попытки выравнивания , треугольник никак не встает на своё место*/
+.kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
   background-size: cover;
   width: 877px;
